@@ -1,0 +1,23 @@
+{
+  "name": "minus-code",
+  "version": "0.0.1",
+  "description": "A tool to code string by minus number",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slouchwind/MinusCode.git"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "slouchwind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Slouchwind/MinusCode/issues"
+  },
+  "homepage": "https://github.com/Slouchwind/MinusCode#readme"
+}
