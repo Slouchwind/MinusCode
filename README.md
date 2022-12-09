@@ -9,7 +9,7 @@ npm install minus-code
 [test.js](./test.js)
 
 ```js
-import MinusCode from './index.js';
+import MinusCode from 'minus-code';
 import { fileURLToPath } from 'node:url';
 
 const __filename = fileURLToPath(import.meta.url);

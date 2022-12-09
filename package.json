@@ -1,6 +1,6 @@
 {
   "name": "minus-code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tool to code string by minus unicode of char",
   "main": "index.js",
   "type": "module",
